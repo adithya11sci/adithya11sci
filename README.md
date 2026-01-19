@@ -10,7 +10,7 @@
 - 🧪 Experimenting with **LLMs, tools, and multi-agent systems**
 - 👯 Open to collaborating on **Agentic AI and AIML-based projects**
 - 🧠 Curious about **how intelligent systems reason, plan, and act**
-- 📫 Reach me at: **your_email_here@gmail.com**
+- 📫 Reach me at: **adithya11sci@gmail.com**
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/adithya-s-3b907b291/
 
