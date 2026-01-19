@@ -6,21 +6,23 @@
 ## ✨ About Me
 
 - 🌱 Currently learning **Generative AI and Large Language Models**
-- 🤖 Working on **Agentic AI, automation, and AI-driven workflows**
+- 🤖 Actively working on **Agentic AI, automation, and AI-driven workflows**
 - 🧪 Experimenting with **LLMs, tools, and multi-agent systems**
 - 👯 Open to collaborating on **Agentic AI and AIML-based projects**
-- 🧠 Curious about **how intelligent systems think, plan, and act**
-- 📫 Reach me at: **adithya11sci@gmail.com**
+- 🧠 Curious about **how intelligent systems reason, plan, and act**
+- 📫 Reach me at: **your_email_here@gmail.com**
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/adithya-s-3b907b291/]
+🔗 **LinkedIn:** https://www.linkedin.com/in/adithya-s-3b907b291/
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -39,15 +41,12 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya11sci&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya11sci&theme=tokyonight" height="170"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KVM-003366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
 
 ---
@@ -57,8 +56,8 @@
 - Learning **Generative AI & LLM architectures**
 - Building **Agentic AI systems**
 - AI-powered **automation and intelligent pipelines**
-- Exploring **real-world applications of AIML**
-- Understanding **systems behind scalable AI**
+- Exploring **real-world AIML applications**
+- Understanding **scalable AI & system design**
 
 ---
 
