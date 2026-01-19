@@ -10,7 +10,7 @@
 - 🧪 Experimenting with **LLMs, tools, and multi-agent systems**
 - 👯 Open to collaborating on **Agentic AI and AIML-based projects**
 - 🧠 Curious about **how intelligent systems think, plan, and act**
-- 📫 Reach me at: **your_email_here@gmail.com**
+- 📫 Reach me at: **adithya11sci@gmail.com**
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/adithya-s-3b907b291/]
 
@@ -19,10 +19,8 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -41,13 +39,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KVM-003366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-</p>
+
 
 ---
 
