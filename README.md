@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Adithya S</h1>
-<h3 align="center">A passionate Gen-AI Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithya11sci&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">Exploring Gen-AI, Agentic Systems & Intelligent Automation</h3>
 
 ---
 
-## 🪄 About Me:
+## ✨ About Me
 
-- 🔭 I’m currently working on **Transformer-based & Gen-AI applications**
-- 🌱 I’m currently learning **LLM-based agents & Agentic AI**
-- 👯 I’m looking to collaborate on **Gen-AI / AI-ML based projects**
-- 🧠 Interested in **LLMs, Blockchain, OS, Kernels & Systems**
-- 📫 How to reach me: **your_email_here@gmail.com**
+- 🌱 Currently learning **Generative AI and Large Language Models**
+- 🤖 Working on **Agentic AI, automation, and AI-driven workflows**
+- 🧪 Experimenting with **LLMs, tools, and multi-agent systems**
+- 👯 Open to collaborating on **Agentic AI and AIML-based projects**
+- 🧠 Curious about **how intelligent systems think, plan, and act**
+- 📫 Reach me at: **your_email_here@gmail.com**
 
-🔗 **LinkedIn:** [Add your LinkedIn link here]
+🔗 **LinkedIn:** [https://www.linkedin.com/in/adithya-s-3b907b291/]
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -27,7 +24,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
 </p>
 
 <p align="left">
@@ -43,7 +39,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge"/>
 </p>
 
 <p align="left">
@@ -56,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adithya11sci&show_icons=true&theme=tokyonight" height="170"/>
@@ -65,14 +60,15 @@
 
 ---
 
-## 🧠 Focus Areas:
-- Generative AI & LLMs  
-- Agentic AI & Autonomous Agents  
-- Blockchain & DApps  
-- Real-Time Systems  
-- OS, Kernels & Virtualization  
+## 🧠 What I’m Focusing On
+
+- Learning **Generative AI & LLM architectures**
+- Building **Agentic AI systems**
+- AI-powered **automation and intelligent pipelines**
+- Exploring **real-world applications of AIML**
+- Understanding **systems behind scalable AI**
 
 ---
 
-⚡ *Fun Fact:*  
-> I enjoy reverse-engineering systems and understanding how things work at the lowest level.
+⚡ *Fun Fact*  
+> I enjoy experimenting with AI systems and understanding how agents reason, plan, and execute tasks.
