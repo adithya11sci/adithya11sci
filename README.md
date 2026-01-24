@@ -42,7 +42,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
