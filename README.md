@@ -56,17 +56,7 @@
 
 ---
 
-## ☕ A Few Things About Me
 
-- 🚀 I sometimes spend more time debugging prompts than debugging code
-- 🌙 Most of my project ideas appear after 2 AM
-- 🤖 I test AI agents like they’re part of a startup team
-- 💡 I enjoy turning random ideas into working prototypes
-- 🧠 Probably overthinking system design for side projects
-- 🎯 My browser tabs usually contain: research papers, GitHub repos, and unfinished experiments
-- ⚡ I enjoy experimenting with AI systems and understanding how agents reason, plan, and execute tasks
-
----
 
 ## 📈 Current Goals
 
